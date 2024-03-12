@@ -1,2 +1,1 @@
-# python-tutorial
-55
+python türkçe dokümentasyon
